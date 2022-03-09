@@ -1,0 +1,1 @@
+echo y | wmic /node:computername /user:adminuser /password:password product where name="WhatsApp" call uninstall

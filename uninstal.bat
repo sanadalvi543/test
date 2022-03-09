@@ -1,0 +1,1 @@
+"C:\Users\HP\AppData\Local\WhatsApp\WhatsApp.exe" /s
